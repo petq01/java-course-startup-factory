@@ -1,4 +1,4 @@
-package album.task2;
+package collections.lru;
 
 import java.util.*;
 

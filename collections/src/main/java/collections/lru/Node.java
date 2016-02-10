@@ -1,4 +1,4 @@
-package album.task2;
+package collections.lru;
 /**
  * Node uses class second LRU cache
  * @author Petq
